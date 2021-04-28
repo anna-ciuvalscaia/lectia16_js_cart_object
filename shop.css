@@ -1,0 +1,89 @@
+body {
+    background-color: #333;
+    color: white;
+    margin: 0;
+}
+
+div #catalog {
+    width: 80%;
+    margin: auto;
+}
+
+
+
+.cart button {
+position: relative;
+left: 35%; 
+top: -62px;
+background-color: rgb(13, 13, 20); 
+color: white;
+padding: 4px;
+}
+
+.cart  img {
+    position: relative;
+    left:-5%; 
+    top: -52px;  
+width: 30px;
+padding: 5px;
+
+
+}
+
+div .product {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    line-height: 1.5em;
+    padding: 20px;
+}
+
+div .product img {
+    width: 300px;
+    height: 200px;
+}
+
+div .product button {
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+div .product button:hover {
+    background-color: wheat;
+}
+
+#eCart {
+    background-color: rgba(250, 235, 215, 0.075);
+    text-align: center;
+    width: 480px;
+    margin: auto;
+    color: white;
+    padding: 10px;
+}
+.cart {
+    background-color: rgba(250, 235, 215, 0.199);
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    color:white;
+    padding: 20px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    text-align: center;
+}
+table{
+    width: 450px;
+    margin: auto;
+}
+td {
+    width: 80px;
+    margin: auto;
+}
+
+
+
+
+
